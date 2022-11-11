@@ -1,8 +1,8 @@
-### Hi dear 👋
+## Hi dear 👋
 
 
 ## 🚀 About Me
-I'm a full stack developer...
+I'm a frontend developer...
 
 
 ## Other Common Github Profile Sections
@@ -16,6 +16,8 @@ I'm a full stack developer...
 💬 Ask me about...
 
 📫 How to reach me kotiamiyu44@gmail.com
+    09064515005
+ 08079737959
 
 😄 Pronouns...
 
